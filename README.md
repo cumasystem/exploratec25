@@ -113,4 +113,4 @@ void loop() {
 ![1744310210305](https://github.com/user-attachments/assets/a986f821-f139-431e-be88-7e955c1b0a59)
 
 ## imagen elegant
-![fotoSubidaGithub](./imagenes/foto1)
+![fotoSubidaGithub](./imagenes/foto1.jpg)
