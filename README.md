@@ -70,7 +70,7 @@ void loop() {
 ## Arduino elegante
 (```)
 
-```ccp
+```cpp
 /*
   Blink
 
