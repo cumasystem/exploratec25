@@ -112,4 +112,5 @@ void loop() {
 ## imagen foto arrastrada  desde mi repositorio
 ![1744310210305](https://github.com/user-attachments/assets/a986f821-f139-431e-be88-7e955c1b0a59)
 
-## imagen elegante
+## imagen elegant
+![fotoSubidaGithub](./)
