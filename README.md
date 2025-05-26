@@ -23,6 +23,6 @@ esto es una linta con orden:
 
 1. jnojoujn
 1. refrteetr
-  2. rvergtevr
+  1. rvergtevr
 1. ververt
 1. revtr
