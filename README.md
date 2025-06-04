@@ -114,3 +114,8 @@ void loop() {
 
 ## imagen elegant
 ![fotoSubidaGithub](./imagenes/foto1.jpg)
+
+
+## branche es para hacer cambios sin que se bean como sub carpetas y cuando tengo listo lo subo con `pull recuest y ñuego puedo aprobarlo desde administrador si lo hzo otra persona 
+
+
