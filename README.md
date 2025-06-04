@@ -1,4 +1,4 @@
-# exploratec25
+# Exploratec25
 Clase Github Montoyamoraga
 
 ## Esto es un subtítulo 
