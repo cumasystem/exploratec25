@@ -10,7 +10,7 @@ esto otro párrafo
 <https://cordilleralab.xyz/>
 
 
-esto es una linta sin orden:
+Esto es una lista sin orden:
 
 - Listas en con signo (-)
   - esto esta anidado
@@ -116,6 +116,8 @@ void loop() {
 ![fotoSubidaGithub](./imagenes/foto1.jpg)
 
 
-## branche es para hacer cambios sin que se bean como sub carpetas y cuando tengo listo lo subo con `pull recuest y ñuego puedo aprobarlo desde administrador si lo hzo otra persona 
+Las branches (ramas) se utilizan para hacer cambios sin que se vean reflejados directamente en la rama principal ni aparezcan como subcarpetas. Cuando los cambios están listos, se puede subir una pull request, y luego un administrador puede revisarla y aprobarla si fue realizada por otra persona.
+
+
 
 
